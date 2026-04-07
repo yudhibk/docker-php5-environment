@@ -1,10 +1,10 @@
-# docker-php7-environment
+# docker-php5-environment
 
-Setup PHP 7 Environment with docker ^^
+Setup PHP 5 Environment with docker ^^
 
 ## List Tools
 
-- **_PHP:7.4-apache_** ⚙️
+- **_PHP:5.6-strecth_** ⚙️
 - **_mysql:8.0_** 📈
 - **_phpmyadmin_** 📉
 - **_composer_** 📡
