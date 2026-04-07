@@ -4,8 +4,8 @@ Setup PHP 5 Environment with docker ^^
 
 ## List Tools
 
-- **_PHP:5.6-strecth_** ⚙️
-- **_mysql:8.0_** 📈
+- **_PHP:5.6-fpm-stretch_** ⚙️
+- **_mysql:5.7_** 📈
 - **_phpmyadmin_** 📉
 - **_composer_** 📡
 
